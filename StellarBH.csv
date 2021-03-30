@@ -1,1 +1,3 @@
-Candidate,R.A.,dec.,distance [light years],Companion star V magnitude,Spectrum,Period [hrs],Semimajor axis [km],Mass [in MSun],Companion Star Mass,Black Hole Circumference [km]
+Candidate,Companion Star,R.A.,dec.,distance [light years],Companion star V magnitude,Spectrum,Period [hrs],Semimajor axis [km],Mass [MSun],Companion Star Mass [MSun],Black Hole Circumference [km]
+RX J0042.3+4115,00h42m22.94s,+41°15'34.0",2500000,,,,,,,,
+3U 0042+32,00h44m50.4s,+33°01'17",,,G,278,<20,000,000,,,,
